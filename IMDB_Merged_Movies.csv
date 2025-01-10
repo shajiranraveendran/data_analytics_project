@@ -1,85 +1,85 @@
 title;genres;runtime_(mins);age_rating;director;movie_rating;votes_count;worldwide_lifetime_gross;domestic_lifetime_gross;foreign_lifetime_gross;release_year
-the godfather;Crime, Drama;175;16;Francis Ford Coppola;9,2;2070969;$250,342,198;$136,381,073;45.5%;
-the dark knight;Action, Crime, Drama, Thriller;152;16;Christopher Nolan;9,0;2950798;$1,009,053,678;$534,987,076;47%;2008.0
-schindler's list;Biography, Drama, History;195;12;Steven Spielberg;9,0;1488804;$322,161,245;$96,898,818;69.9%;1993.0
-the lord of the rings: the return of the king;Action, Adventure, Drama, Fantasy;201;12;Peter Jackson;9,0;2032584;$1,138,263,151;$381,878,219;66.4%;2003.0
-pulp fiction;Crime, Drama;154;16;Quentin Tarantino;8,9;2279743;$213,928,762;$107,928,762;49.6%;1994.0
-the lord of the rings: the fellowship of the ring;Action, Adventure, Drama, Fantasy;178;12;Peter Jackson;8,9;2062220;$888,159,923;$319,372,078;64%;2001.0
-forrest gump;Drama, Romance;142;12;Robert Zemeckis;8,8;2323615;$678,226,465;$330,455,270;51.3%;1994.0
-inception;Action, Adventure, Sci-Fi, Thriller;148;12;Christopher Nolan;8,8;2618490;$839,030,630;$292,587,330;65.1%;2010.0
-star wars: episode v - the empire strikes back;Action, Adventure, Fantasy, Sci-Fi;124;12;Irvin Kershner;8,7;1412105;$550,016,086;$292,753,960;46.8%;1980.0
-the lord of the rings: the two towers;Action, Adventure, Drama, Fantasy;179;12;Peter Jackson;8,8;1832629;$938,242,927;$345,518,923;63.2%;2002.0
-joker;Crime, Drama, Thriller;122;16;Todd Phillips;8,4;1563871;$1,078,958,629;$335,477,657;68.9%;2019.0
-the matrix;Action, Sci-Fi;136;16;Lana Wachowski;8,7;2107630;$467,840,449;$172,076,928;63.2%;1999.0
-the silence of the lambs;Crime, Drama, Thriller;118;16;Jonathan Demme;8,6;1594731;$272,742,922;$130,742,922;52.1%;1991.0
-star wars: episode iv - a new hope;Action, Adventure, Fantasy, Sci-Fi;121;12;George Lucas;8,6;1481053;$775,398,507;$460,998,507;40.6%;1977.0
-saving private ryan;Drama, War;169;16;Steven Spielberg;8,6;1535402;$482,351,251;$217,049,603;55%;1998.0
-the green mile;Crime, Drama, Fantasy, Mystery;189;12;Frank Darabont;8,6;1448376;$286,801,374;$136,801,374;52.3%;1999.0
-interstellar;Adventure, Drama, Sci-Fi;169;12;Christopher Nolan;8,7;2208401;$732,055,745;$188,020,017;74.3%;2014.0
-the lion king;Animation, Adventure, Drama, Family, Fantasy, Musical;88;0;Roger Allers;8,5;1174340;$1,662,020,819;$543,638,043;67.3%;2019.0
-the lion king;Animation, Adventure, Drama, Family, Fantasy, Musical;88;0;Roger Allers;8,5;1174340;$981,708,285;$424,979,720;56.7%;1994.0
-back to the future;Adventure, Comedy, Sci-Fi;116;12;Robert Zemeckis;8,5;1345292;$384,577,472;$214,077,472;44.3%;1985.0
-terminator 2: judgment day;Action, Adventure, Sci-Fi;137;16;James Cameron;8,6;1205426;$517,778,573;$205,881,154;60.2%;1991.0
-gladiator;Action, Adventure, Drama;155;16;Ridley Scott;8,5;1690914;$465,516,248;$187,705,427;59.7%;2000.0
-the departed;Crime, Drama, Thriller;151;16;Martin Scorsese;8,5;1455935;$291,481,358;$132,399,394;54.6%;2006.0
-avengers: endgame;Action, Adventure, Drama, Sci-Fi;181;12;Anthony Russo;8,4;1313766;$2,799,439,100;$858,373,000;69.3%;2019.0
-avengers: infinity war;Action, Adventure, Sci-Fi;149;12;Anthony Russo;8,4;1247512;$2,052,415,039;$678,815,482;66.9%;2018.0
-django unchained;Comedy, Drama, Western;165;16;Quentin Tarantino;8,5;1744690;$426,076,293;$162,805,434;61.8%;2012.0
-spider-man: into the spider-verse;Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi;117;6;Bob Persichetti;8,4;702973;$393,602,435;$190,241,310;51.7%;2018.0
-wall·e;Animation, Adventure, Family, Sci-Fi;98;0;Andrew Stanton;8,4;1232833;$527,403,656;$223,808,164;57.6%;2008.0
-the dark knight rises;Action, Drama, Thriller;164;12;Christopher Nolan;8,4;1874603;$1,114,975,066;$448,149,584;59.8%;2012.0
-coco;Drama, Romance;137;0;Lee Unkrich;8,4;354791;$814,641,172;$210,460,015;74.2%;2017.0
-braveheart;Drama;122;16;Mel Gibson;8,3;1231135;$213,216,216;$75,609,945;64.5%;1995.0
-american beauty;Biography, Drama, War;178;12;Sam Mendes;8,3;1111541;$356,296,601;$130,096,601;63.5%;1999.0
-toy story;Action, Adventure, Fantasy, Sci-Fi;131;0;John Lasseter;8,3;1144700;$394,436,586;$223,225,679;43.4%;1995.0
-star wars: episode vi - return of the jedi;Animation, Adventure, Comedy, Family, Fantasy;81;12;Richard Marquand;8,3;1097213;$482,466,382;$316,566,101;34.4%;1983.0
-good will hunting;Drama, Romance;126;12;Gus Van Sant;8,3;1104899;$225,933,435;$138,433,435;38.7%;1997.0
-inglourious basterds;Adventure, Drama, War;153;16;Quentin Tarantino;8,4;1633331;$321,460,456;$120,540,719;62.5%;2009.0
-toy story 3;Animation, Adventure, Comedy, Family, Fantasy;103;0;Lee Unkrich;8,3;913110;$1,067,316,101;$415,004,880;61.1%;2010.0
-indiana jones and the last crusade;Action, Adventure;127;12;Steven Spielberg;8,2;825252;$474,171,806;$197,171,806;58.4%;1989.0
-up;Animation, Adventure, Comedy, Drama, Family;96;0;Pete Docter;8,3;1155535;$735,102,136;$293,004,164;60.1%;2009.0
-heat;Action, Crime, Drama;170;16;Michael Mann;8,3;737763;$187,436,818;$67,436,818;64%;1995.0
-green book;Biography, Comedy, Drama, Music;130;6;Peter Farrelly;8,2;606365;$321,752,656;$85,080,171;73.6%;2018.0
-batman begins;Action, Crime, Drama;140;12;Christopher Nolan;8,2;1615263;$375,404,836;$206,863,479;44.9%;2005.0
-a beautiful mind;Biography, Drama, Mystery;135;12;Ron Howard;8,2;1006076;$316,791,257;$170,742,341;46.1%;2001.0
-the wolf of wall street;Biography, Comedy, Crime, Drama;180;16;Martin Scorsese;8,2;1637399;$407,039,432;$116,900,694;71.3%;2013.0
-inside out;Animation, Adventure, Comedy, Drama, Family, Fantasy;95;0;Pete Docter;8,1;841663;$859,076,254;$356,461,711;58.5%;2015.0
-gone with the wind;Drama, Romance, War;238;12;Victor Fleming;8,2;340258;$402,382,193;$200,882,193;50.1%;
-shutter island;Drama, Mystery, Thriller;138;16;Martin Scorsese;8,2;1507173;$294,942,927;$128,012,934;56.6%;2010.0
-the sixth sense;Drama, Mystery, Thriller;107;16;M. Night Shyamalan;8,2;1078318;$672,806,432;$293,506,292;56.4%;1999.0
-jurassic park;Action, Adventure, Sci-Fi, Thriller;127;12;Steven Spielberg;8,2;1094738;$1,104,379,926;$407,185,075;63.1%;1993.0
-finding nemo;Animation, Adventure, Comedy, Family;100;6;Andrew Stanton;8,2;1138016;$941,637,960;$380,843,261;59.6%;2003.0
-gran torino;Drama;116;12;Clint Eastwood;8,1;827624;$269,958,228;$148,095,302;45.1%;2008.0
-the truman show;Comedy, Drama;103;12;Peter Weir;8,2;1240506;$264,118,712;$125,618,201;52.4%;1998.0
-how to train your dragon;Animation, Action, Adventure, Family, Fantasy;98;6;Dean DeBlois;8,1;822638;$494,879,860;$217,581,231;56%;2010.0
-gone girl;Drama, Mystery, Thriller;149;16;David Fincher;8,1;1096685;$370,890,259;$167,767,189;54.8%;2014.0
-catch me if you can;Biography, Crime, Drama;141;6;Steven Spielberg;8,1;1132376;$352,114,312;$164,615,351;53.2%;2002.0
-12 years a slave;Biography, Drama, History;134;12;Steve McQueen;8,1;753574;$187,734,091;$56,671,993;69.8%;2013.0
-knives out;Comedy, Crime, Drama, Mystery, Thriller;130;12;Rian Johnson;7,9;797123;$312,897,920;$165,363,234;47.2%;2019.0
-logan;Action, Drama, Sci-Fi, Thriller;137;16;James Mangold;8,1;869288;$619,180,476;$226,277,068;63.5%;2017.0
-mad max: fury road;Action, Adventure, Sci-Fi, Thriller;120;16;George Miller;8,1;1139845;$380,437,267;$154,280,290;59.4%;2015.0
-million dollar baby;Drama, Sport;132;12;Clint Eastwood;8,1;734187;$216,763,646;$100,492,203;53.6%;2004.0
-dead poets society;Comedy, Drama;128;12;Peter Weir;8,1;570447;$235,860,116;$95,860,116;59.4%;1989.0
-monsters, inc.;Animation, Adventure, Comedy, Family, Fantasy;92;6;Pete Docter;8,1;1005884;$579,770,299;$290,642,256;49.9%;2001.0
-the help;Drama;146;0;Tate Taylor;8,1;503534;$221,802,186;$169,708,112;23.5%;2011.0
-guardians of the galaxy;Action, Adventure, Comedy, Sci-Fi;121;12;James Gunn;8,0;1297306;$773,350,376;$333,718,600;56.8%;2014.0
-aladdin;Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance;90;0;Ron Clements;8,0;479534;$1,054,304,000;$355,559,216;66.3%;2019.0
-aladdin;Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance;90;0;Ron Clements;8,0;479534;$504,050,219;$217,350,219;56.9%;1992.0
-beauty and the beast;Animation, Family, Fantasy, Musical, Romance;84;0;Gary Trousdale;8,0;486849;$1,266,115,964;$504,481,165;60.2%;2017.0
-beauty and the beast;Animation, Family, Fantasy, Musical, Romance;84;0;Gary Trousdale;8,0;486849;$451,291,298;$218,967,620;51.5%;1991.0
-the imitation game;Biography, Drama, Thriller, War;114;12;Morten Tyldum;8,0;840577;$233,555,708;$91,125,683;61%;2014.0
-the exorcist;Horror;122;16;William Friedkin;8,1;468436;$430,872,776;$233,005,644;45.9%;
-la la land;Comedy, Drama, Music, Musical, Romance;128;0;Damien Chazelle;8,0;698185;$509,183,536;$151,101,803;70.3%;2016.0
-the bourne ultimatum;Action, Mystery, Thriller;115;12;Paul Greengrass;8,0;665934;$444,100,035;$227,471,070;48.8%;2007.0
-zootopia;Animation, Action, Adventure, Comedy, Crime, Family, Mystery;108;0;Byron Howard;8,0;565072;$1,025,521,689;$341,268,248;66.7%;2016.0
-the avengers;Action, Sci-Fi;143;12;Joss Whedon;8,0;1484871;$1,520,538,536;$623,357,910;59%;2012.0
-jaws;Adventure, Drama, Thriller;124;16;Steven Spielberg;8,1;680207;$477,220,580;$266,567,580;44.1%;
-jfk;Drama, History, Thriller;189;12;Oliver Stone;8,0;173684;$205,405,498;$70,405,498;65.7%;1991.0
-blade runner 2049;Action, Drama, Mystery, Sci-Fi, Thriller;164;12;Denis Villeneuve;8,0;692046;$276,605,984;$92,071,675;66.7%;2017.0
-rain man;Drama;133;12;Barry Levinson;8,0;556149;$354,825,435;$172,825,435;51.3%;1988.0
-dances with wolves;Adventure, Drama, Western;181;12;Kevin Costner;8,0;296886;$424,208,848;$184,208,848;56.6%;1990.0
-downton abbey;Comedy, Crime;106;16;Robert Hamer;8,0;40297;$194,694,725;$96,853,865;50.2%;2019.0
-the incredibles;Animation, Action, Adventure, Family;115;6;Brad Bird;8,0;834103;$631,688,498;$261,441,092;58.6%;2004.0
-the king's speech;Biography, Drama, History;118;0;Tom Hooper;8,0;715442;$472,088,310;$138,797,449;70.6%;2010.0
-the martian;Adventure, Drama, Sci-Fi;144;12;Ridley Scott;8,0;950003;$630,621,406;$228,433,663;63.8%;2015.0
-ratatouille;Animation, Adventure, Comedy, Family, Fantasy;111;0;Brad Bird;8,1;858056;$623,729,107;$206,445,654;66.9%;2007.0
+the godfather;Crime, Drama;175;16;Francis Ford Coppola;9.2;2070969;250342198;136381073;0.455;
+the dark knight;Action, Crime, Drama, Thriller;152;16;Christopher Nolan;9.0;2950798;1009053678;534987076;0.47;2008.0
+schindler's list;Biography, Drama, History;195;12;Steven Spielberg;9.0;1488804;322161245;96898818;0.699;1993.0
+the lord of the rings: the return of the king;Action, Adventure, Drama, Fantasy;201;12;Peter Jackson;9.0;2032584;1138263151;381878219;0.664;2003.0
+pulp fiction;Crime, Drama;154;16;Quentin Tarantino;8.9;2279743;213928762;107928762;0.496;1994.0
+the lord of the rings: the fellowship of the ring;Action, Adventure, Drama, Fantasy;178;12;Peter Jackson;8.9;2062220;888159923;319372078;0.64;2001.0
+forrest gump;Drama, Romance;142;12;Robert Zemeckis;8.8;2323615;678226465;330455270;0.513;1994.0
+inception;Action, Adventure, Sci-Fi, Thriller;148;12;Christopher Nolan;8.8;2618490;839030630;292587330;0.651;2010.0
+star wars: episode v - the empire strikes back;Action, Adventure, Fantasy, Sci-Fi;124;12;Irvin Kershner;8.7;1412105;550016086;292753960;0.468;1980.0
+the lord of the rings: the two towers;Action, Adventure, Drama, Fantasy;179;12;Peter Jackson;8.8;1832629;938242927;345518923;0.632;2002.0
+joker;Crime, Drama, Thriller;122;16;Todd Phillips;8.4;1563871;1078958629;335477657;0.689;2019.0
+the matrix;Action, Sci-Fi;136;16;Lana Wachowski;8.7;2107630;467840449;172076928;0.632;1999.0
+the silence of the lambs;Crime, Drama, Thriller;118;16;Jonathan Demme;8.6;1594731;272742922;130742922;0.521;1991.0
+star wars: episode iv - a new hope;Action, Adventure, Fantasy, Sci-Fi;121;12;George Lucas;8.6;1481053;775398507;460998507;0.406;1977.0
+saving private ryan;Drama, War;169;16;Steven Spielberg;8.6;1535402;482351251;217049603;0.55;1998.0
+the green mile;Crime, Drama, Fantasy, Mystery;189;12;Frank Darabont;8.6;1448376;286801374;136801374;0.523;1999.0
+interstellar;Adventure, Drama, Sci-Fi;169;12;Christopher Nolan;8.7;2208401;732055745;188020017;0.743;2014.0
+the lion king;Animation, Adventure, Drama, Family, Fantasy, Musical;88;0;Roger Allers;8.5;1174340;1662020819;543638043;0.673;2019.0
+the lion king;Animation, Adventure, Drama, Family, Fantasy, Musical;88;0;Roger Allers;8.5;1174340;981708285;424979720;0.567;1994.0
+back to the future;Adventure, Comedy, Sci-Fi;116;12;Robert Zemeckis;8.5;1345292;384577472;214077472;0.443;1985.0
+terminator 2: judgment day;Action, Adventure, Sci-Fi;137;16;James Cameron;8.6;1205426;517778573;205881154;0.602;1991.0
+gladiator;Action, Adventure, Drama;155;16;Ridley Scott;8.5;1690914;465516248;187705427;0.597;2000.0
+the departed;Crime, Drama, Thriller;151;16;Martin Scorsese;8.5;1455935;291481358;132399394;0.546;2006.0
+avengers: endgame;Action, Adventure, Drama, Sci-Fi;181;12;Anthony Russo;8.4;1313766;2799439100;858373000;0.693;2019.0
+avengers: infinity war;Action, Adventure, Sci-Fi;149;12;Anthony Russo;8.4;1247512;2052415039;678815482;0.669;2018.0
+django unchained;Comedy, Drama, Western;165;16;Quentin Tarantino;8.5;1744690;426076293;162805434;0.618;2012.0
+spider-man: into the spider-verse;Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi;117;6;Bob Persichetti;8.4;702973;393602435;190241310;0.517;2018.0
+wall·e;Animation, Adventure, Family, Sci-Fi;98;0;Andrew Stanton;8.4;1232833;527403656;223808164;0.576;2008.0
+the dark knight rises;Action, Drama, Thriller;164;12;Christopher Nolan;8.4;1874603;1114975066;448149584;0.598;2012.0
+coco;Drama, Romance;137;0;Lee Unkrich;8.4;354791;814641172;210460015;0.742;2017.0
+braveheart;Drama;122;16;Mel Gibson;8.3;1231135;213216216;75609945;0.645;1995.0
+american beauty;Biography, Drama, War;178;12;Sam Mendes;8.3;1111541;356296601;130096601;0.635;1999.0
+toy story;Action, Adventure, Fantasy, Sci-Fi;131;0;John Lasseter;8.3;1144700;394436586;223225679;0.434;1995.0
+star wars: episode vi - return of the jedi;Animation, Adventure, Comedy, Family, Fantasy;81;12;Richard Marquand;8.3;1097213;482466382;316566101;0.344;1983.0
+good will hunting;Drama, Romance;126;12;Gus Van Sant;8.3;1104899;225933435;138433435;0.387;1997.0
+inglourious basterds;Adventure, Drama, War;153;16;Quentin Tarantino;8.4;1633331;321460456;120540719;0.625;2009.0
+toy story 3;Animation, Adventure, Comedy, Family, Fantasy;103;0;Lee Unkrich;8.3;913110;1067316101;415004880;0.611;2010.0
+indiana jones and the last crusade;Action, Adventure;127;12;Steven Spielberg;8.2;825252;474171806;197171806;0.584;1989.0
+up;Animation, Adventure, Comedy, Drama, Family;96;0;Pete Docter;8.3;1155535;735102136;293004164;0.601;2009.0
+heat;Action, Crime, Drama;170;16;Michael Mann;8.3;737763;187436818;67436818;0.64;1995.0
+green book;Biography, Comedy, Drama, Music;130;6;Peter Farrelly;8.2;606365;321752656;85080171;0.736;2018.0
+batman begins;Action, Crime, Drama;140;12;Christopher Nolan;8.2;1615263;375404836;206863479;0.449;2005.0
+a beautiful mind;Biography, Drama, Mystery;135;12;Ron Howard;8.2;1006076;316791257;170742341;0.461;2001.0
+the wolf of wall street;Biography, Comedy, Crime, Drama;180;16;Martin Scorsese;8.2;1637399;407039432;116900694;0.713;2013.0
+inside out;Animation, Adventure, Comedy, Drama, Family, Fantasy;95;0;Pete Docter;8.1;841663;859076254;356461711;0.585;2015.0
+gone with the wind;Drama, Romance, War;238;12;Victor Fleming;8.2;340258;402382193;200882193;0.501;
+shutter island;Drama, Mystery, Thriller;138;16;Martin Scorsese;8.2;1507173;294942927;128012934;0.566;2010.0
+the sixth sense;Drama, Mystery, Thriller;107;16;M. Night Shyamalan;8.2;1078318;672806432;293506292;0.564;1999.0
+jurassic park;Action, Adventure, Sci-Fi, Thriller;127;12;Steven Spielberg;8.2;1094738;1104379926;407185075;0.631;1993.0
+finding nemo;Animation, Adventure, Comedy, Family;100;6;Andrew Stanton;8.2;1138016;941637960;380843261;0.596;2003.0
+gran torino;Drama;116;12;Clint Eastwood;8.1;827624;269958228;148095302;0.451;2008.0
+the truman show;Comedy, Drama;103;12;Peter Weir;8.2;1240506;264118712;125618201;0.524;1998.0
+how to train your dragon;Animation, Action, Adventure, Family, Fantasy;98;6;Dean DeBlois;8.1;822638;494879860;217581231;0.56;2010.0
+gone girl;Drama, Mystery, Thriller;149;16;David Fincher;8.1;1096685;370890259;167767189;0.548;2014.0
+catch me if you can;Biography, Crime, Drama;141;6;Steven Spielberg;8.1;1132376;352114312;164615351;0.532;2002.0
+12 years a slave;Biography, Drama, History;134;12;Steve McQueen;8.1;753574;187734091;56671993;0.698;2013.0
+knives out;Comedy, Crime, Drama, Mystery, Thriller;130;12;Rian Johnson;7.9;797123;312897920;165363234;0.472;2019.0
+logan;Action, Drama, Sci-Fi, Thriller;137;16;James Mangold;8.1;869288;619180476;226277068;0.635;2017.0
+mad max: fury road;Action, Adventure, Sci-Fi, Thriller;120;16;George Miller;8.1;1139845;380437267;154280290;0.594;2015.0
+million dollar baby;Drama, Sport;132;12;Clint Eastwood;8.1;734187;216763646;100492203;0.536;2004.0
+dead poets society;Comedy, Drama;128;12;Peter Weir;8.1;570447;235860116;95860116;0.594;1989.0
+monsters, inc.;Animation, Adventure, Comedy, Family, Fantasy;92;6;Pete Docter;8.1;1005884;579770299;290642256;0.499;2001.0
+the help;Drama;146;0;Tate Taylor;8.1;503534;221802186;169708112;0.235;2011.0
+guardians of the galaxy;Action, Adventure, Comedy, Sci-Fi;121;12;James Gunn;8.0;1297306;773350376;333718600;0.568;2014.0
+aladdin;Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance;90;0;Ron Clements;8.0;479534;1054304000;355559216;0.663;2019.0
+aladdin;Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance;90;0;Ron Clements;8.0;479534;504050219;217350219;0.569;1992.0
+beauty and the beast;Animation, Family, Fantasy, Musical, Romance;84;0;Gary Trousdale;8.0;486849;1266115964;504481165;0.602;2017.0
+beauty and the beast;Animation, Family, Fantasy, Musical, Romance;84;0;Gary Trousdale;8.0;486849;451291298;218967620;0.515;1991.0
+the imitation game;Biography, Drama, Thriller, War;114;12;Morten Tyldum;8.0;840577;233555708;91125683;0.61;2014.0
+the exorcist;Horror;122;16;William Friedkin;8.1;468436;430872776;233005644;0.459;
+la la land;Comedy, Drama, Music, Musical, Romance;128;0;Damien Chazelle;8.0;698185;509183536;151101803;0.703;2016.0
+the bourne ultimatum;Action, Mystery, Thriller;115;12;Paul Greengrass;8.0;665934;444100035;227471070;0.488;2007.0
+zootopia;Animation, Action, Adventure, Comedy, Crime, Family, Mystery;108;0;Byron Howard;8.0;565072;1025521689;341268248;0.667;2016.0
+the avengers;Action, Sci-Fi;143;12;Joss Whedon;8.0;1484871;1520538536;623357910;0.59;2012.0
+jaws;Adventure, Drama, Thriller;124;16;Steven Spielberg;8.1;680207;477220580;266567580;0.441;
+jfk;Drama, History, Thriller;189;12;Oliver Stone;8.0;173684;205405498;70405498;0.657;1991.0
+blade runner 2049;Action, Drama, Mystery, Sci-Fi, Thriller;164;12;Denis Villeneuve;8.0;692046;276605984;92071675;0.667;2017.0
+rain man;Drama;133;12;Barry Levinson;8.0;556149;354825435;172825435;0.513;1988.0
+dances with wolves;Adventure, Drama, Western;181;12;Kevin Costner;8.0;296886;424208848;184208848;0.566;1990.0
+downton abbey;Comedy, Crime;106;16;Robert Hamer;8.0;40297;194694725;96853865;0.502;2019.0
+the incredibles;Animation, Action, Adventure, Family;115;6;Brad Bird;8.0;834103;631688498;261441092;0.586;2004.0
+the king's speech;Biography, Drama, History;118;0;Tom Hooper;8.0;715442;472088310;138797449;0.706;2010.0
+the martian;Adventure, Drama, Sci-Fi;144;12;Ridley Scott;8.0;950003;630621406;228433663;0.638;2015.0
+ratatouille;Animation, Adventure, Comedy, Family, Fantasy;111;0;Brad Bird;8.1;858056;623729107;206445654;0.669;2007.0
